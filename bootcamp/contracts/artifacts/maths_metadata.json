@@ -207,7 +207,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/7_math.sol": "maths"
+			"7_math.sol": "maths"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -221,7 +221,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/7_math.sol": {
+		"7_math.sol": {
 			"keccak256": "0xa989d6cd25739cab47cbc07e45641045fe5400cd267265b252f28110cd48c46c",
 			"license": "MIT",
 			"urls": [

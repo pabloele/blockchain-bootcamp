@@ -418,7 +418,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/1_primeros_pasos.sol": "FirstContract"
+			"1_primeros_pasos.sol": "FirstContract"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -432,6 +432,14 @@
 		"remappings": []
 	},
 	"sources": {
+		"1_primeros_pasos.sol": {
+			"keccak256": "0x98afddd4e039a314c10015c94d02937fb21fb5438578174c8cc3ebceed94a9a0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d1b53d9ae21f7afb5f10735bbf05047a356b6212cdb34989b68b3ad99d5d2327",
+				"dweb:/ipfs/QmZ4NR8Eh8hyy3viw1pLtcx6nF6Rz8SNX4zBKeaoTuihqN"
+			]
+		},
 		"@openzeppelin/contracts@4.5.0/token/ERC721/ERC721.sol": {
 			"keccak256": "0x11b84bb56dc112a6590bfe3e0efa118aa1b5891132342200d04c4ef544cb93de",
 			"license": "MIT",
@@ -502,14 +510,6 @@
 			"urls": [
 				"bzz-raw://be161e54f24e5c6fae81a12db1a8ae87bc5ae1b0ddc805d82a1440a68455088f",
 				"dweb:/ipfs/QmP7C3CHdY9urF4dEMb9wmsp1wMxHF6nhA2yQE5SKiPAdy"
-			]
-		},
-		"contracts/1_primeros_pasos.sol": {
-			"keccak256": "0x98afddd4e039a314c10015c94d02937fb21fb5438578174c8cc3ebceed94a9a0",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://d1b53d9ae21f7afb5f10735bbf05047a356b6212cdb34989b68b3ad99d5d2327",
-				"dweb:/ipfs/QmZ4NR8Eh8hyy3viw1pLtcx6nF6Rz8SNX4zBKeaoTuihqN"
 			]
 		}
 	},

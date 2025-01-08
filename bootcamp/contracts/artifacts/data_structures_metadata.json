@@ -216,7 +216,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/3_estructuras_de_datos.sol": "data_structures"
+			"3_estructuras_de_datos.sol": "data_structures"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -230,7 +230,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/3_estructuras_de_datos.sol": {
+		"3_estructuras_de_datos.sol": {
 			"keccak256": "0x0226dd9a92e90deeb5a1a0f2f2becae5354a93cc3aeead4e69a8399c90db8bbd",
 			"license": "MIT",
 			"urls": [
